@@ -1,4 +1,16 @@
-# Medical-Insurance-Cost-Analysis-Predictive-Modeling
-Analyzed key factors influencing medical insurance premiums and developed machine learning models to predict costs and support risk-based pricing decisions. Conducted exploratory data analysis to examine the effects of age, BMI, smoking status, region, and dependents on charges. Performed preprocessing including encoding, scaling, and correlation analysis. Built and evaluated multiple regression models (Linear Regression, Random Forest, Gradient Boosting) and used feature importance metrics to identify the strongest predictors. The final model achieved high prediction accuracy and provided actionable insights into high-risk customer segments.
+# Medical Insurance Cost Analysis & Predictive Modeling
 
-Tech Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook
+## Objective
+To analyse key factors affecting medical insurance premiums and build predictive models for risk-based pricing decisions.
+
+## Tools & Technologies
+Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook
+
+## Process
+- Conducted EDA to analyze impact of age, BMI, smoking status, region, and dependents.
+- Performed preprocessing including encoding, scaling, and correlation analysis.
+- Built regression models: Linear Regression, Random Forest, Gradient Boosting.
+- Evaluated models using performance metrics and feature importance.
+
+## Result
+Developed an accurate prediction model and identified key factors influencing insurance costs, supporting better pricing strategies.
